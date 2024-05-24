@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="pr_ximo">Próximo</string>
+    <string name="walter_moura_e_silva_junior">Walter Moura e Silva Junior</string>
+    <string name="walterdevj">WalterDevj</string>
+    <string name="Linkedin"><a href = "https://www.linkedin.com/in/walterdevj">Walter Junior</a></string>
+    <string name="fotocurriculo">Fotocurriculo</string>
+    <string name="Github"><a href = "https://github.com/WalterDevj">WalterDevj</a></string>
+</resources>
